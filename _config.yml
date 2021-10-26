@@ -30,7 +30,7 @@ twitter_username: iristigerlily
 github_username:  evelynmaire
 
 # Build settings
-theme: jekyll-theme-persephone
+remote_theme: jekyll-theme-persephone
 plugins:
   - jekyll-feed
 
